@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "bullseye.issue._435": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
